@@ -1,4 +1,4 @@
-FROM eclipse-temurin:18-jdk-alpine
+FROM eclipse-temurin:17-jdk-alpine
 VOLUME /tmp
 COPY target/*.jar app.jar
 COPY serviceAccountKey.json serviceAccountKey.json

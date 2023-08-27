@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.resturant.tandoori_adda.TandooriAddaApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.315 s - in com.resturant.tandoori_adda.TandooriAddaApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.526 s - in com.resturant.tandoori_adda.TandooriAddaApplicationTests
